@@ -5,4 +5,4 @@ input.addEventListener('click', (event) => {
   console.log(inputValue);
 });
 let inputValue = prompt("Введите сумму в долларах");
-  alert(inputValue + " долларов = " + inputValue * 78 + " рублей"); 
+alert(inputValue + " долларов = " + inputValue * 77 + " рублей");
